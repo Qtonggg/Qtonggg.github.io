@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Qtong
-  tagline: Learner、thinker
+  tagline: 想成为软硬件工程师的学生
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
